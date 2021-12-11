@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo1{
+    position: absolute;
+    width: 131px;
+    height: 72px;
+    left: 100px;
+    top: 17px;
+}
+
+.logo2{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 284px;
+    top: 23px;
+}
+
+.logo3{
+    position: absolute;
+    width: 24px;
+    height: 21px;
+    left: 284px;
+    top: 51px;
+    background: green;
+}
+
+.logo4{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 31px;
+}
+
+.logo5{
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 365px;
+    top: 54px
+}
+
+.logo6{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 491px;
+    top: 42px;
+}
+
+.logo7{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 521px;
+    top: 42px;
+}
+
+.logo8{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 556px;
+    top: 43px;
+}
+
+.logo9{
+    position: absolute;
+    width: 128px;
+    height: 21px;
+    left: 627px;
+    top: 29px;  
+}
+
+.logo10{
+    position: absolute;
+    width: 120px;
+    height: 21px;
+    left: 627px;
+    top: 55px;
+}
+
+.logo11{
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    left: 762px;
+    top: 32px;
+}
+
+.logo12{
+    position: absolute;
+    width: 240px;
+    height: 55px;
+    left: 862px;
+    top: 23px;    
+}
+    
+.logo13{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1064px;
+    top: 40px;
+    background: #DD4053;
+    border-radius: 2px;
+}
+.logo14{
+    position: absolute;
+    width: 205px;
+    height: 55px;
+    left: 1132px;
+    top: 23px;
+}
+
+.logo15{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1300px;
+    top: 42px;
+    background: rgba(7, 255, 7, 0.698);
+    left: 1282px;
+    top: 23px;
+    border-radius: 2px;
+}
+
+.logo16{
+    position: absolute;
+    width: 19px;
+    height: 17.17px;
+    left: 174px;
+    top: 129px;
+}
+
+.text1{
+    position: absolute;
+width: 46px;
+height: 19px;
+left: 253px;
+top: 128px;
+}
+.text2{
+    position: absolute;
+    width: 56px;
+    height: 19px;
+    left: 369px;
+    top: 128px;
+}
+.text3{
+    position: absolute;
+    width: 37px;
+    height: 19px;
+    left: 494px;
+    top: 128px;   
+}
+.text4{
+    position: absolute;
+    width: 103px;
+    height: 19px;
+    left: 601px;
+    top: 128px;
+}
+.text5{
+    position: absolute;
+    width: 61px;
+    height: 19px;
+    left: 760px;
+    top: 128px;
+}
+.text6{
+    position: absolute;
+    width: 41px;
+    height: 19px;
+    left: 897px;
+    top: 128px;
+}
+.text7{
+    position: absolute;
+    width: 34px;
+    height: 19px;
+    left: 1014px;
+    top: 128px;
+}
+.text8{
+    position: absolute;
+    width: 29px;
+    height: 19px;
+    left: 1108px;
+    top: 128px;
+    
+}
+.text9{
+    position: absolute;
+    width: 71px;
+    height: 19px;
+    left: 1196px;
+    top: 128px;
+}
